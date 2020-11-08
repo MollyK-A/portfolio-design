@@ -1,13 +1,11 @@
 ---
-Title: Home
-Description: This is our index page.
+Title: Hem
+Description: Om utvecklaren.
 ---
 
-Home page
+Hem
 ==========================
 
-The source for this page is in `content/index.md`.
+Hej! Jag heter Molly och jag jobbar som frilansande musiker och skådespelare. Mina instrument är sång, piano, klarinett och dragspel. Det är inte lätt att välja när allt är kul! Jag är född och uppvuxen i Delsbo, Hälsingland, men har bott i Malmö i tre år nu. Jag trivs men saknar berg, sjöar och barrträd! 
 
-This is a sample home page written in markdown with some frontmatter defined.
-
-The pages make up a Anax site for demonstration purpose, it is something to start from.
+Nu läser jag båda kurspaketen på BTH parallellt med frilansandet, vilket ska bli väldigt spännande. På min fritid (om jag har någon kvar) gillar jag att lyssna på ljudböcker och poddar, pyssla, träffa mina vänner och laga god mat. 
