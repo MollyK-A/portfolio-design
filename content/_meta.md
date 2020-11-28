@@ -1,5 +1,5 @@
 ---
-Logo: image/logga-design.png
+Logo: image/orangeboll.png
 Tagline: Molly Anderssons utvecklarportfolio.
 Social:
     - title: Länk till sidans github repo.
@@ -11,4 +11,10 @@ Social:
     - title: Link till Mollys tinder profile.
       url: https://www.tinder.com/@Mollify
       icon: fas fa-fire-alt
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: fas fa-trash
+    - title: Dark Mode
+      url: ?action=theme
+      icon: fas fa-moon
 ---

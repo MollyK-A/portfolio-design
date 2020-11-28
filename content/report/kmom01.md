@@ -1,6 +1,7 @@
 ---
 Title: Kmom01
 Description: Part 1
+Template: kmom
 ---
 
 Kursmoment 1
@@ -19,3 +20,4 @@ Min fördom om webbdesign är att man verkligen inte får göra hur man vill. El
 Det är kul att jobba med min layout! Jag har hittat en färgskala jag faschineras av och vill baka in den. CSS-dokumentet är en del att svälja och jag förstår inte hälften av vad som står i det. Jag börjar med det jag förstår sedan förut och jobbar därifrån. 
 
 Min TIL är allt som hade med git och github att göra, det verkar jättebesvärligt just nu och jag kan verkligen inte proceduren utantill, men det är på väg!
+
